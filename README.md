@@ -147,6 +147,9 @@ Then click "Change.."
 
 ![image](https://github.com/user-attachments/assets/a4c5ac1d-acb1-4130-b3e3-a06eadb1c609)
 
+Select Domain and type "exampledomain.com to join the domain
+
+![image](https://github.com/user-attachments/assets/796d9f9f-eb7c-493e-8aba-8de25ee15e91)
 
 
 
