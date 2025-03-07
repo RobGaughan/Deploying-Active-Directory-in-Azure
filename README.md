@@ -82,6 +82,8 @@ Name the new User jane doe and confiure the userlogon as jane_admin@exampledomai
 
 For the password I used LabPassword123 
 Make sure to untick the "User must password at next logon" option to save some time for lab purposes 
+
+
 ![image](https://github.com/user-attachments/assets/7402ecfb-4d2d-4182-b6f6-47ef09d479a0)
 
 
