@@ -163,6 +163,6 @@ Once the VM restarts it will be in the EXAMPLEDOMAIN.COM domain
 ![image](https://github.com/user-attachments/assets/6d7afd4c-6e8c-4264-a6f2-80d3f24f5ea0)
 ![image](https://github.com/user-attachments/assets/5091c340-c9d6-4e28-9504-2583865d45df)
 
-## Verify Client-1 Joined the domain
+### Verify Client-1 Joined the domain
 
 
