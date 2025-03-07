@@ -144,6 +144,7 @@ Click "rename this PC (advanced)
 ![image](https://github.com/user-attachments/assets/b7205691-c89d-4ec1-ad9e-f0d0dc705cae)
 
 Then click "Change.."
+
 ![image](https://github.com/user-attachments/assets/a4c5ac1d-acb1-4130-b3e3-a06eadb1c609)
 
 
