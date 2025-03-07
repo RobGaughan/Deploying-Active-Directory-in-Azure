@@ -2,17 +2,19 @@
 # Deploying-Active-Directory-in-Azure
 
 ### Install Active Directory 
-First we must RDP into Domain-Controller-1 to do that we need to find its public IP address
+#### Connect to Domain-Controller-1
+Virtual Machines > Domain-Controller-1 > Networking > Network settings 
 
-We can find the IP address by navigating to: 
- - Virtual Machines --> Domain-Controller-1 --> Networking --> Network settings
-   
-![image](https://github.com/user-attachments/assets/36c65ae5-cd40-42f9-ae4a-7f5e4c3c7b91)
+From here we want to take note of the public IP address we will be using this to remote into Domain-Controller-1
 
-- Next we will RDP in using Remote Desktop Connection using the public IP 
-   - The login credential will be Username: LabADMIN Password: LabPassword123 from earlier
+![18](https://github.com/user-attachments/assets/e7e60b6e-0fe5-4f7f-9fb2-396aa86e7c11)
 
-![image](https://github.com/user-attachments/assets/e2ed221a-4c8e-44bc-b203-4bfc1720ae35)
+Using Remote Desktop Connection enter the public IP you found in the last step  
+Username: LabADMIN  
+Password: LabPassword123  
+Then click "connect"
+
+![19](https://github.com/user-attachments/assets/05c136e9-4118-496f-a9ca-247459e5c0fb)
 
 - When you connect you should be met with this screen
    -To begin installing Active Directory click on "add roles and files"
