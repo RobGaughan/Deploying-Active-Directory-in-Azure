@@ -64,4 +64,27 @@ Navigate to "Active Directory Users and Computers"
 Create a new Organizational Unit (OU) 
 ![image](https://github.com/user-attachments/assets/71306999-945f-490e-bde8-6553a049b98a)
 
+Name The OU _EMPLOYEES 
+
+![image](https://github.com/user-attachments/assets/32c2d110-7b44-4b71-973e-828a19e5017e)
+![image](https://github.com/user-attachments/assets/4f856e40-5a26-437d-b8fd-b5ba9b923927)
+
+Create a new OU called _ADMINS
+
+![image](https://github.com/user-attachments/assets/3a4cc40c-2c7a-40bb-8e3e-7085446889b0)
+
+Create a new user in the admin OU
+![image](https://github.com/user-attachments/assets/1b95a12c-6350-48f4-9d7b-f766b696f1a3)
+
+Name the new User jane doe and confiure the userlogon as jane_admin@exampledomain.com then click next
+
+![image](https://github.com/user-attachments/assets/a1f377cf-4beb-4f7e-bb6c-a560ffbba33c)
+
+For the password I used LabPassword123 
+Make sure to untick the "User must password at next logon" option to save some time for lab purposes 
+![image](https://github.com/user-attachments/assets/7402ecfb-4d2d-4182-b6f6-47ef09d479a0)
+
+
+
+
 
