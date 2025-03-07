@@ -57,6 +57,7 @@ We can find the IP address by navigating to:
       
 ![image](https://github.com/user-attachments/assets/c9b03c31-f37f-48c9-8f51-f09bb620aff4)
 
+### Create Users and Admins Organizational Units 
 
 Navigate to "Active Directory Users and Computers"
 ![image](https://github.com/user-attachments/assets/9160b08c-b74d-4eae-b0f9-de710c241e13)
@@ -86,6 +87,11 @@ Tick "Password never expires" (for lab purposes)
 Click next then finish on the following prompt
 
 ![image](https://github.com/user-attachments/assets/66f878d0-0c62-4b60-a71b-908f94215da6)
+
+
+### Configure Jane Doe as a Domain Admin 
+
+Just because we added jane doe to the _ADMIN OU does not mean that jane doe has admin privlages to promote jane to admin we must do the following
 
 Right click jane doe and click propertys 
 
