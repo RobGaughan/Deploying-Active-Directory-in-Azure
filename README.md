@@ -157,9 +157,11 @@ Password: LabPassword123
 
 ![image](https://github.com/user-attachments/assets/18204e03-1ea8-4ee2-9e74-58e315c41ea4)
 
-If done Correctly you should be met with this screen 
+If done Correctly you should be met with this screen, as well a restart notification.  
+Once the VM restarts it will be in the EXAMPLEDOMAIN.COM domain
 
 ![image](https://github.com/user-attachments/assets/6d7afd4c-6e8c-4264-a6f2-80d3f24f5ea0)
+![image](https://github.com/user-attachments/assets/5091c340-c9d6-4e28-9504-2583865d45df)
 
 
 
