@@ -1,6 +1,6 @@
 # Deploying-Active-Directory-in-Azure
 
-### 3. Install Active Directory 
+### Install Active Directory 
 First we must RDP into Domain-Controller-1 to do that we need to find its public IP address
 
 We can find the IP address by navigating to: 
@@ -32,6 +32,9 @@ We can find the IP address by navigating to:
  - Check the "Restart the destination server automatically if required" and click install
    
 ![image](https://github.com/user-attachments/assets/d28d5c80-7f28-455a-afe5-39b30ec4b33a)
+
+
+### Promote Domain-Controller-1 to the domain controller 
 
 - Now we must promote this VM to domain controller to do that
    - Select the flag icon on the top right of the screen and click on "Promote this server to a domain controller"
