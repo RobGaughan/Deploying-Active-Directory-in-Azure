@@ -18,7 +18,7 @@ In this lab we will be installing Active Directory
 - Windows Server 2022 Datacenter: Azure Edition - x64 Gen2  
 - Windows 10 Pro, version 22H2 - x64 Gen2  
 
-# Deploying-Active-Directory-in-Azure
+# Deploying Active Directory in Azure
 
 ### Install Active Directory 
 #### Connect to Domain-Controller-1
