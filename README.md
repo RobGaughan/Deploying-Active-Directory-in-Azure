@@ -6,7 +6,7 @@
 
 
 <h1>Deploying Active Directory in Azure</h1>
-In this lab we will be installing Active Directory 
+In this lab we will be installing Active Directory on the Infrastructure we set up in the [last lab](https://github.com/RobGaughan/Infrastructure-For-AD-Azure/)
 
 <h2>Operating Systems Used </h2>
 
