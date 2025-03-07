@@ -4,15 +4,12 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Last Steps</h1>
+<h1>Previous Steps</h1>
 
 [Preparing Infrastructure for Active Directory in Azure](https://github.com/RobGaughan/Infrastructure-For-AD-Azure)
 
 <h1>Deploying Active Directory in Azure</h1>
-In this lab we will be installing Active Directory on the Infrastructure we set up in the 
-
-
-
+In this lab we will be installing Active Directory on the Infrastructure we set up in the previous steps section
 
 
 <h2>Operating Systems Used </h2>
