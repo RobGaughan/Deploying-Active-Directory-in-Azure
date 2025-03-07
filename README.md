@@ -56,3 +56,12 @@ We can find the IP address by navigating to:
    - After installtion the VM will restart and you will loose the RDP connection momentarily
       
 ![image](https://github.com/user-attachments/assets/c9b03c31-f37f-48c9-8f51-f09bb620aff4)
+
+
+Navigate to "Active Directory Users and Computers"
+![image](https://github.com/user-attachments/assets/9160b08c-b74d-4eae-b0f9-de710c241e13)
+
+Create a new Organizational Unit (OU) 
+![image](https://github.com/user-attachments/assets/71306999-945f-490e-bde8-6553a049b98a)
+
+
