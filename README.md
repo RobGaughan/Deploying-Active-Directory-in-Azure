@@ -123,6 +123,18 @@ Click "connect"
 
 ![image](https://github.com/user-attachments/assets/e38c5bbb-c72f-4d95-ad1d-86949f38953c)
 
+### Join Client-1 to the domain
+Connect to Client-1 
+
+Find client-1 public IP address:  
+Virtual Machines > Client-1 > Networking > Network settings 
+
+![image](https://github.com/user-attachments/assets/35965722-d05f-4c90-be6c-a737d71cd161)
+
+
+login using Remote Desktop Connection
+
+![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
 
 
 
