@@ -116,10 +116,10 @@ To do this press windows key + R and type "logoff" to logoff
 
 ![image](https://github.com/user-attachments/assets/03619b64-02ae-4318-8e02-32b99e2644fe)
 
-Login as jane_admin
-username: EXAMPLEDOMAIN\jane_admin
-Password: LabPassword123
-Click "connect"
+Login as jane_admin  
+username: EXAMPLEDOMAIN\jane_admin  
+Password: LabPassword123  
+Click "connect"  
 
 ![image](https://github.com/user-attachments/assets/e38c5bbb-c72f-4d95-ad1d-86949f38953c)
 
