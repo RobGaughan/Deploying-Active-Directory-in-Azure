@@ -166,7 +166,7 @@ Once the VM restarts it will be in the EXAMPLEDOMAIN.COM domain
 ![image](https://github.com/user-attachments/assets/5091c340-c9d6-4e28-9504-2583865d45df)
 
 ### Verify Client-1 Joined the domain
-Navigating back to Domain-Controller-1 > Active Directory Users and Computer
+Navigating back to Domain-Controller-1 > Active Directory Users and Computer  
 We can see that Client-1 Joined the domain  
 Futhermore we can see details on client-1 such as the Operating System it currently has installed
 
