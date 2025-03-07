@@ -40,8 +40,8 @@ Then click "connect"
 
 ![19](https://github.com/user-attachments/assets/05c136e9-4118-496f-a9ca-247459e5c0fb)
 
-- When you connect you should be met with this screen
-   -To begin installing Active Directory click on "add roles and files"
+- When you connect you should be met with this screen  
+- To begin installing Active Directory click on "add roles and files"
 
 ![1](https://github.com/user-attachments/assets/9bc4aa84-2eb3-46e7-bfe3-90d73462f764)
 
