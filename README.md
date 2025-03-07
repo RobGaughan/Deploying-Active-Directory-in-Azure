@@ -100,14 +100,12 @@ Navigate to "Active Directory Users and Computers"
 ![10](https://github.com/user-attachments/assets/657fa35d-c384-453f-be04-7172b9d812f3)
 
 
-Create a new Organizational Unit (OU) 
-![image](https://github.com/user-attachments/assets/71306999-945f-490e-bde8-6553a049b98a)
+Create a new Organizational Unit (OU)
 
 ![11-cropped-resized](https://github.com/user-attachments/assets/cdccb169-88e0-4ff2-82bb-b46acfc09ee4)
 
 Name The OU _EMPLOYEES 
 
-![image](https://github.com/user-attachments/assets/32c2d110-7b44-4b71-973e-828a19e5017e)
 ![image](https://github.com/user-attachments/assets/4f856e40-5a26-437d-b8fd-b5ba9b923927)
 
 Create a new OU called _ADMINS
@@ -115,7 +113,8 @@ Create a new OU called _ADMINS
 ![image](https://github.com/user-attachments/assets/3a4cc40c-2c7a-40bb-8e3e-7085446889b0)
 
 Create a new user in the admin OU
-![image](https://github.com/user-attachments/assets/1b95a12c-6350-48f4-9d7b-f766b696f1a3)
+
+![12-cropped-resized](https://github.com/user-attachments/assets/f5c64614-7a2d-42ca-9c22-67089b871e6b)
 
 Name the new User jane doe and confiure the userlogon as jane_admin@exampledomain.com then click next
 
@@ -137,7 +136,8 @@ In order to promote jane to admin we must add her user to the "Domain Admins" Se
 
 Right click jane doe and click "Properties"
 
-![image](https://github.com/user-attachments/assets/2391930f-d237-4b90-a225-b7d4673d9a34)
+![13](https://github.com/user-attachments/assets/34edda55-57a1-4f9c-a1f1-e3ae4bc739ab)
+
 
 Click "member of" tab then click "add"
 
@@ -174,10 +174,15 @@ login using Remote Desktop Connection
 ![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
 
 Right click windows icon > system
-![image](https://github.com/user-attachments/assets/1b3e8b62-ed6a-4ecf-8390-b9492c6cbcaf)
+
+![14](https://github.com/user-attachments/assets/0ef2c390-13b8-459f-af70-904f2809a33e)
 
 Click "rename this PC (advanced)
 ![image](https://github.com/user-attachments/assets/b7205691-c89d-4ec1-ad9e-f0d0dc705cae)
+
+![15](https://github.com/user-attachments/assets/e8a7f3a7-4a73-4069-8a44-50a8d4dce65f)
+
+
 
 Then click "Change.."
 
