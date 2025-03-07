@@ -178,9 +178,8 @@ Right click windows icon > system
 ![14](https://github.com/user-attachments/assets/0ef2c390-13b8-459f-af70-904f2809a33e)
 
 Click "rename this PC (advanced)
-![image](https://github.com/user-attachments/assets/b7205691-c89d-4ec1-ad9e-f0d0dc705cae)
 
-![15](https://github.com/user-attachments/assets/e8a7f3a7-4a73-4069-8a44-50a8d4dce65f)
+![15](https://github.com/user-attachments/assets/e5167cb3-4264-40ba-a515-b9c23d2f967c)
 
 
 
