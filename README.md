@@ -87,6 +87,13 @@ Click next then finish on the following prompt
 
 ![image](https://github.com/user-attachments/assets/66f878d0-0c62-4b60-a71b-908f94215da6)
 
+Right click jane doe and click propertys 
+![image](https://github.com/user-attachments/assets/2391930f-d237-4b90-a225-b7d4673d9a34)
+
+Click "member of" tab then click "add"
+![image](https://github.com/user-attachments/assets/f24190a3-f3ea-4b23-9abb-7bd95f80bfbd)
+
+
 
 
 
