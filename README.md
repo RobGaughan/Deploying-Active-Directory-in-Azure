@@ -153,6 +153,14 @@ To do this press windows key + R and type "logoff" to logoff
 
 ![image](https://github.com/user-attachments/assets/03619b64-02ae-4318-8e02-32b99e2644fe)
 
+### Domain Context
+
+When logining in as jane_admin it is useful to understand why we are loging in using "EXAMPLEDOMAIN\jane_admin"
+
+The reason is because jane_admin exists in the EXAMPLEDOMAIN domain for this reason we add the domain context to the login
+
+![image](https://github.com/user-attachments/assets/881c271b-8e93-48e6-87ce-da178c19b855)
+
 Login as jane_admin  
 username: EXAMPLEDOMAIN\jane_admin  
 Password: LabPassword123  
