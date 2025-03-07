@@ -161,7 +161,7 @@ The reason is because jane_admin exists in the EXAMPLEDOMAIN domain for this rea
 
 Hypothecially if jane_admin were to exists in companydomain.com we would then use the domain context "companydomain" instead
 
-![image](https://github.com/user-attachments/assets/881c271b-8e93-48e6-87ce-da178c19b855)
+![AD-DOMAIN-CONTEXT](https://github.com/user-attachments/assets/33f4ef12-0c6b-4f62-acfb-ba92e9ca8ef8)
 
 Login as jane_admin  
 username: EXAMPLEDOMAIN\jane_admin  
