@@ -91,9 +91,11 @@ Click next then finish on the following prompt
 
 ### Configure Jane Doe as a Domain Admin 
 
-Just because we added jane doe to the _ADMIN OU does not mean that jane doe has admin privlages to promote jane to admin we must do the following
+Just because we added jane doe to the _ADMIN OU does not mean that jane doe has admin privlages  
+In order to promote jane to admin we must add her user to the "Domain Admins" Security group  
 
-Right click jane doe and click propertys 
+
+Right click jane doe and click "Properties"
 
 ![image](https://github.com/user-attachments/assets/2391930f-d237-4b90-a225-b7d4673d9a34)
 
