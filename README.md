@@ -151,7 +151,11 @@ Select Domain and type "exampledomain.com to join the domain
 
 ![image](https://github.com/user-attachments/assets/796d9f9f-eb7c-493e-8aba-8de25ee15e91)
 
+Now we can just jane_admin to authorize the joining of the domain
+Username: EXAMPLEDOMAIN\jane_admin
+Password: LabPassword123
 
+![image](https://github.com/user-attachments/assets/18204e03-1ea8-4ee2-9e74-58e315c41ea4)
 
 
 
