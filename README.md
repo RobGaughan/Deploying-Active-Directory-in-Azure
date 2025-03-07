@@ -42,23 +42,25 @@ Then click "connect"
 
 - When you connect you should be met with this screen
    -To begin installing Active Directory click on "add roles and files"
-  
-![418238521-7925871f-0282-4e5b-a517-ed33bbcd5fc4](https://github.com/user-attachments/assets/00bd1956-3a31-4375-ae36-3b3b285224c9)
+
+![1](https://github.com/user-attachments/assets/9bc4aa84-2eb3-46e7-bfe3-90d73462f764)
+
+
 
 - Next we will be met with the activation wizard we can click next on all prompt until we get to the "Server roles" secction
 
-![image](https://github.com/user-attachments/assets/1dbe9ded-acb3-4b01-824a-4d1160ee089f)
+![2](https://github.com/user-attachments/assets/175f599c-9744-464e-99cd-c4a74e39680e)
 
 
  - On the "Server roles" section:
     -  check the highlighted "Active Directory Domain Services" box
     -  accept any addtional prompts and hit next until you get to "Confirmation"
 
-![image](https://github.com/user-attachments/assets/e87b07f4-50f5-466b-9f5f-048fe84dc7e8)
+![3](https://github.com/user-attachments/assets/cf2b7b6e-d2df-437a-8922-f5d9bc9de4f3)
 
- - Check the "Restart the destination server automatically if required" and click install
-   
-![image](https://github.com/user-attachments/assets/d28d5c80-7f28-455a-afe5-39b30ec4b33a)
+ - Check the "Restart the destination server automatically if required" and click install   
+
+![4](https://github.com/user-attachments/assets/dd1de4dc-5a74-4426-a7da-f6dcf125cd07)
 
 
 ### Promote Domain-Controller-1 to the domain controller 
@@ -66,34 +68,42 @@ Then click "connect"
 - Now we must promote this VM to domain controller to do that
    - Select the flag icon on the top right of the screen and click on "Promote this server to a domain controller"
 
-![image](https://github.com/user-attachments/assets/b0fe3318-9eee-4a6e-843f-86179d20f2f5)
+![5-cropped-resized](https://github.com/user-attachments/assets/4fa706eb-2e86-4b74-948a-f34d6929b93f)
+
 
 - Enter "exampledomain.com" into the root domain name
 
-![image](https://github.com/user-attachments/assets/9659ddb9-675e-4da1-98bf-c6e1529ff0bd)
+![6](https://github.com/user-attachments/assets/26e3a4b5-68b4-4a58-8f26-f5683cf1b29d)
 
 
 - Next choose a password for the Dirrectory Services Restore Mode
    - I used: LabPassword123 to keep lab passwords consistent
 
-![image](https://github.com/user-attachments/assets/e2aba41f-d5a8-4205-92d8-6dc92a67031e)
+
+![7](https://github.com/user-attachments/assets/13194115-8d5b-4bd9-af07-805f5ea3d4d9)
+
 
 - uncheck "Create DNS delegation" when met with this prompt
 
-![image](https://github.com/user-attachments/assets/5475c2e7-8c06-4af0-a8de-ee18385c9231)
+![8](https://github.com/user-attachments/assets/69c9cd7f-9d71-4781-8d05-44eb5d861984)
+
 
 - Click next until you get to Prerequisites Check and click install
-   - After installtion the VM will restart and you will loose the RDP connection momentarily
-      
-![image](https://github.com/user-attachments/assets/c9b03c31-f37f-48c9-8f51-f09bb620aff4)
+   - After installtion the VM will restart and you will loose the RDP connection momentarily     
+
+![9](https://github.com/user-attachments/assets/041594fa-375f-464c-bfea-f12c3104497c)
+
 
 ### Create Users and Admins Organizational Units 
 
-Navigate to "Active Directory Users and Computers"
-![image](https://github.com/user-attachments/assets/9160b08c-b74d-4eae-b0f9-de710c241e13)
+Navigate to "Active Directory Users and Computers"  
+![10](https://github.com/user-attachments/assets/657fa35d-c384-453f-be04-7172b9d812f3)
+
 
 Create a new Organizational Unit (OU) 
 ![image](https://github.com/user-attachments/assets/71306999-945f-490e-bde8-6553a049b98a)
+
+![11-cropped-resized](https://github.com/user-attachments/assets/cdccb169-88e0-4ff2-82bb-b46acfc09ee4)
 
 Name The OU _EMPLOYEES 
 
