@@ -223,4 +223,4 @@ Futhermore we can see details on client-1 such as the Operating System it curren
 
 ##  Next steps
 
-(Creating Users, Managing Group Policy, and Accounts)[https://github.com/RobGaughan/Creating-Users-Managing-Group-Policy-and-Accounts]
+[Creating Users, Managing Group Policy, and Accounts](https://github.com/RobGaughan/Creating-Users-Managing-Group-Policy-and-Accounts)
