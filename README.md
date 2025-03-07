@@ -1,3 +1,4 @@
+
 # Deploying-Active-Directory-in-Azure
 
 ### Install Active Directory 
@@ -135,6 +136,15 @@ Virtual Machines > Client-1 > Networking > Network settings
 login using Remote Desktop Connection
 
 ![image](https://github.com/user-attachments/assets/9466d64c-5c51-404f-afd6-e4684a9c70ab)
+
+Right click windows icon > system
+![image](https://github.com/user-attachments/assets/1b3e8b62-ed6a-4ecf-8390-b9492c6cbcaf)
+
+Click "rename this PC (advanced)
+![image](https://github.com/user-attachments/assets/b7205691-c89d-4ec1-ad9e-f0d0dc705cae)
+
+
+
 
 
 
