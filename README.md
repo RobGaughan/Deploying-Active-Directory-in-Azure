@@ -157,6 +157,10 @@ Password: LabPassword123
 
 ![image](https://github.com/user-attachments/assets/18204e03-1ea8-4ee2-9e74-58e315c41ea4)
 
+If done Correctly you should be met with this screen 
+
+![image](https://github.com/user-attachments/assets/6d7afd4c-6e8c-4264-a6f2-80d3f24f5ea0)
+
 
 
 
