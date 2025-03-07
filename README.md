@@ -159,6 +159,8 @@ When logining in as jane_admin it is useful to understand why we are loging in u
 
 The reason is because jane_admin exists in the EXAMPLEDOMAIN domain for this reason we add the domain context to the login
 
+Hypothecially if jane_admin were to exists in companydomain.com we would then use the domain context "companydomain" instead
+
 ![image](https://github.com/user-attachments/assets/881c271b-8e93-48e6-87ce-da178c19b855)
 
 Login as jane_admin  
